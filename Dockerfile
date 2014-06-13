@@ -1,4 +1,4 @@
-FROM ubuntu:12.10
+FROM ubuntu:latest
 MAINTAINER Nick Robinson <nickrobinson@gatech.edu>
 
 RUN apt-get update
